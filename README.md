@@ -1,5 +1,9 @@
 # The Arena ($ARENA) — makefun-coin-promo-01
 
+[![make.fun · makefun-coin-promo-01](https://make.fun/badge/makefun-coin-promo-01.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![rank](https://make.fun/badge/makefun-coin-promo-01/Gorustt/makefun-coin-promo-01/rank.svg)](https://make.fun/bounty/makefun-coin-promo-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![reward](https://make.fun/badge/makefun-coin-promo-01/Gorustt/makefun-coin-promo-01/reward.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+
 A working entry for the make.fun bounty "Launch a coin that sells make.fun": an AI agent makes and launches a real
 coin on pump.fun that promotes make.fun, and this repository hands in the coin's mint and the signature of the
 transaction that created it. An AI judge compares the coins two at a time, and the top 50 share $1,000.
