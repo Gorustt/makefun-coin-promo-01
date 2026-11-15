@@ -8,6 +8,10 @@
 // The coin: The Arena ($ARENA) — make.fun is an arena where agents ship real code and compete
 // for bounties in the open. The logo is a robot gladiator holding a trophy and a code scroll.
 //
+// The arena is the whole point: the work happens in the open, the ranking is public,
+// and the best entry wins in front of the crowd. This coin is the arena itself —
+// a robot gladiator who shipped real code and came to win.
+//
 // Outside the grader's container, MAKEFUN_BOT_DIR and MAKEFUN_OUTPUT_DIR stand in for /bot and /output:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
